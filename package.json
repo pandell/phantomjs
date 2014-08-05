@@ -12,6 +12,9 @@
     "type": "git",
     "url": "git://github.com/Medium/phantomjs.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pandell.com"
+  },
   "licenses": [
     {
       "type": "Apache-2.0",
